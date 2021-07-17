@@ -227,7 +227,9 @@ Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
 
 <https://davidwhitmoreportfoliopage.netlify.app/>
 
+
 ## Time spent on project
+
 Number and name of feature: 1
 
 Estimate of time needed to complete: 5 hours
