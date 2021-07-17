@@ -226,3 +226,15 @@ Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
 ### Netlify link
 
 <https://davidwhitmoreportfoliopage.netlify.app/>
+
+## Time Estimate
+
+Number and name of feature: 1
+
+Estimate of time needed to complete: 5 hours
+
+Start time: 5:30pm
+
+Finish time: _____
+
+Actual time needed to complete: _____
